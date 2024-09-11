@@ -1,0 +1,4 @@
+python milvus_bf16_insert.py
+ 
+python milvus_bf16_query.py run --batchsize=1
+ 
